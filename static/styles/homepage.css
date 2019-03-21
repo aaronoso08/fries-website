@@ -1,4 +1,4 @@
-/* hero section styles */
+
 .hero-section {
     background-image: url(../images/backgrounds/fries-hero-bg.jpg);
     padding: 100px;
@@ -28,8 +28,6 @@
 }
 
 /* /*features section styles/* */
-
-
 .features-section {
     height: 400px;
     background-image: url(../images/backgrounds/fries-multiply-bg.jpg);
@@ -48,5 +46,4 @@
     display: flex;
     justify-content: space-between;
 }
-
 
